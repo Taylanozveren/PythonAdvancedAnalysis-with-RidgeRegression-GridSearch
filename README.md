@@ -1,2 +1,3 @@
 # PythonAdvancedAnalysis-with-RidgeRegression-GridSearch
 I created a notebook based on examples from the Data Analysis course in the IBM Data Science Professional Certificate program
+In this lab, we will explore different methods to optimize model performance and prevent overfitting. By utilizing training, testing, and cross-validation processes, we will learn how to improve the performance of our dataset. Through Ridge Regression, we will observe the impact of hyperparameters on the model and use Grid Search to identify the best-performing model with optimal hyperparameters. Using Python's powerful libraries—pandas, numpy, sklearn, seaborn, and matplotlib—we will apply these processes step by step, deepening our understanding of model evaluation and optimization.
